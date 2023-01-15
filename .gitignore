@@ -1,7 +1,8 @@
 *.pdf
 *.csv
 
-lid.176.bin
+/venv
+/model
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
